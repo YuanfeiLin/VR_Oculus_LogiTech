@@ -1,2 +1,2 @@
-# VR_Oculus
-Unity with C#, expanded with Oculus' VR hardware.
+# VR_Oculus_LogiTech
+Unity with C#, expanded with Oculus' and LogiTech's VR hardware.
